@@ -10,7 +10,7 @@
   -----------------
   Name: Luc Geurts
   Languages: ["C", "ShellScript", "Go", "Lua"]
-  Interests: ["Linux", "CyberSecurity", "FOSS"]
+  Interests: ["Projectmanagement", "Linux", "CyberSecurity", "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
