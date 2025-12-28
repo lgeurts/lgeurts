@@ -1,5 +1,5 @@
 ```css
-┌[lgeurts@☮flouze-eurl]-(~)
+┌[lgeurts☮flouze-eurl]-(~)
 └> aka flous
 ```
  
