@@ -9,8 +9,8 @@
   lgeurtsGitHub
   -----------------
   Name: Luc Geurts
-  Languages: ["C", "ShellScript", "Go", "Lua"]
-  Interests: ["Projectmanagement", "Linux", "CyberSecurity", "FOSS"]
+  Languages: ["C", "Golang", "Python", "ShellScript", "Markdown", "Lua"]
+  Interests: ["Projectmanagement", "CyberSecurity", "GNU Linux", , "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
