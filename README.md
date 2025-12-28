@@ -7,7 +7,7 @@
 
   ```css
   Name: Luc Geurts
-  Location: France & The Netherlands
+  Location: "France" & "The Netherlands"
   Interests: ["Project Management", "CyberSecurity", "Development", "GNU Linux", "FOSS"]
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   OS: ArchLinux
