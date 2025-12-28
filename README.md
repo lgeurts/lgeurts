@@ -12,6 +12,6 @@ WM: DWM
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=An+expat+from+Belgium+living+in+France;Freelancer+at+Flouze+eurl;I+plan+and+lead+software+projects;Install+various+BSD+and+Linux+flavors;Fix+all+kinds+of+annoying+bugs..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=A+flemish+expat+living+in+France;Freelancer+at+Flouze+eurl;I+plan+and+lead+software+projects;Install+various+BSD+and+Linux+flavors;Fix+all+kinds+of+annoying+bugs..." alt="Typing SVG" />
 </p>
  <samp>
