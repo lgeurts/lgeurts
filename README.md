@@ -7,7 +7,7 @@
   -----------------
   Name: Luc Geurts aka Flous
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
-  Interests: ["Projectmanagement", "CyberSecurity", "GNU Linux", "FOSS"]
+  Interests: ["Projectmanagement", "Scrum" "AWS", "Ansible" "GNU Linux", "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
