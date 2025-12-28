@@ -10,7 +10,7 @@
   -----------------
   Name: Luc Geurts
   Languages: ["C", "Golang", "Python", "ShellScript", "Markdown", "Lua"]
-  Interests: ["Projectmanagement", "CyberSecurity", "GNU Linux", , "FOSS"]
+  Interests: ["Projectmanagement", "CyberSecurity", "GNU Linux", "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
@@ -20,3 +20,7 @@
 
   </samp>
 </p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thehackersbrain/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/thehackersbrainn/)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
