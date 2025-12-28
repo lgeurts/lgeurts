@@ -17,6 +17,6 @@ WM: DWM
 </div>
 <br />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines="Installing+BSD+Server+and+fixing+bugs...;Planning+and+leading+software+projects;Arch+btw+%E2%9A%A1;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=Installing+BSD+Server+and+fixing+bugs...;Planning+and+leading+software+projects;Arch+btw+%E2%9A%A1" alt="Typing SVG" />
 </p>
  <samp>
