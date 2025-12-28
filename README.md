@@ -26,7 +26,8 @@
   lgeurts@GitHub
   -----------------
   Name: Luc Geurts
-  Languages: ["C", "ShellScript", "Go", "Lua"]
+  Location: France 
+  Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   Interests: ["Linux", "CyberSecurity", "FOSS"]
   OS: ArchLinux
   WM: DWM
