@@ -11,12 +11,12 @@
 -----------------
 Interests: ["Cloud", "CyberSecurity", "GNU Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
-Learning: [ "LPIC1", "Golang"] 
+Learning: [ "LPIC-1", "Golang"] 
 OS: ArchLinux
 WM: DWM
 ```
 </div>
-<br />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=Planning+and+leading+software+projects;Installing+BSD/Linux+and+fixing+bugs...;Expat+from+Belgium+living+in+France" alt="Typing SVG" />
 </p>
