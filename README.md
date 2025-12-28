@@ -9,7 +9,6 @@
   lgeurts@GitHub
   -----------------
   Location: France 
-  Profession: ["Poject Manager", "Scrum Master"]
   Interests: ["CyberSecurity", "GNU Linux", "FOSS"]
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   OS: ArchLinux
