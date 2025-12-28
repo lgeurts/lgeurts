@@ -5,13 +5,13 @@
 —————————————————————
 Interests: ["Cloud", "Scrum", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
-Learning: [ "LPIC-1 and 2", "Golang"] 
+Learning: [ "LPIC-1 & 2", "Golang"] 
 OS: ArchLinux
 WM: DWM
 ```
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=Freelance+engineer+at+Flouze+eurl;I+plan+and+lead+software+projects;Install+various+BSD+and+Linux+flavors;And+fix+all+kinds+of+annoying+bugs..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=Freelancer+at+Flouze+eurl;I+plan+and+lead+software+projects;Install+various+BSD+and+Linux+flavors;And+fix+all+kinds+of+annoying+bugs..." alt="Typing SVG" />
 </p>
  <samp>
