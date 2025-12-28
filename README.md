@@ -2,7 +2,7 @@
 
 ```css
 [GitHub Profile]-(~)
-————————————————————
+—————————————————————
 Interests: ["Cloud", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPIC-1 and 2", "Golang"] 
