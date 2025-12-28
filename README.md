@@ -7,7 +7,7 @@
 
 ```css
 Profile@GitHub
-# 💬 About 
+💬 About 
 -----------------
 Interests: ["Cloud", "CyberSecurity", "GNU Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
