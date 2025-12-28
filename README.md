@@ -8,8 +8,9 @@
   ```css
   Name: Luc Geurts
   Location: France 
+  Profession: ["Poject Manager", "Scrum Master"]
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
-  Interests: ["PMBOK", "Scrum", "Linux", "CyberSecurity", "FOSS"]
+  Interests: ["CyberSecurity", "GNU Linux", "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
