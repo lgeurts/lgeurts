@@ -10,6 +10,7 @@ Learning: [ "LPIC-1", "Golang"]
 OS: ArchLinux
 WM: DWM
 ```
+```css
 </div>
 
 <p align="center">
