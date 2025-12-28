@@ -6,8 +6,9 @@
   lgeurts@GitHub
   -----------------
   Name: Luc Geurts aka Flous
+  Profession: Projectmanager, Scrum Master 
+  Interests: ["ProjectManagement","CyberSecurity", "Development", "GNU Linux", "FOSS"]
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
-  Interests: ["Projectmanagement", "Scrum" "AWS", "Ansible" "GNU Linux", "FOSS"]
   OS: ArchLinux
   WM: DWM
   ```
