@@ -8,9 +8,9 @@
   ```css
   lgeurts@GitHub
   -----------------
-  Location: France 
   Interests: ["Cloud", "CyberSecurity", "GNU Linux", "FOSS"]
-  Languages: ["C", "Golang", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
+  Languages: ["C", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
+  Learning: [ "LPIC1", "Golang"] 
   OS: ArchLinux
   WM: DWM
   ```
