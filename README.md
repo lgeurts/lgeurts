@@ -9,8 +9,8 @@
   Name: Luc Geurts
   Location: France 
   Profession: ["Poject Manager", "Scrum Master"]
-  Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   Interests: ["CyberSecurity", "GNU Linux", "FOSS"]
+  Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   OS: ArchLinux
   WM: DWM
   ```
