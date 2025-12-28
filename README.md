@@ -9,7 +9,7 @@ Languages: ["C", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
 Learning: [ "LPIC-1", "Golang"] 
 OS: ArchLinux
 WM: DWM
-```
+
 ```css
 </div>
 
