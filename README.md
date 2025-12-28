@@ -5,7 +5,7 @@
   ```css
   lgeurts@GitHub
   -----------------
-  Name: Luc Geurts
+  Name: Luc Geurts aka Flous
   Languages: ["C", "Golang", "Python", "Shell", "LaTeX", "Lua"]
   Interests: ["Projectmanagement", "CyberSecurity", "GNU Linux", "FOSS"]
   OS: ArchLinux
