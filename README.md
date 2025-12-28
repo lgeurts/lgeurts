@@ -19,7 +19,6 @@
 <p align="center">
   <samp>
    <a href="https://seeingangelz.neocities.org/"><img height="25" src="https://img.shields.io/badge/Startpage-221f29?style=for-the-badge&logo=firefox&logoColor=white"</a>
-    <a href="https://github.com/seeingangelz/dotfiles"><img height="25" src="https://img.shields.io/badge/dotfiles-221f29?style=for-the-badge&logo=linux&logoColor=white"</a>
-    <a href="mailto:aeon@firemail.cc"><img height="25" src="https://img.shields.io/badge/EMAIL-221f29?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a href="https://github.com/seeingangelz/dotfiles"><img height="25" src="https://img.shields.io/badge/dotfiles-221f29?style=for-the-badge&logo=linux&logoColor=white"
   </samp>
 </p>
