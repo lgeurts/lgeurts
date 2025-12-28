@@ -3,7 +3,7 @@
 ```css
 
 ⚙️ About Me
-———————————
+—————————————
 Interests: ["Cloud", "CyberSecurity", "GNU Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
 Learning: [ "LPIC-1", "Golang"] 
