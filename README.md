@@ -9,8 +9,8 @@
   lgeurts@GitHub
   -----------------
   Location: France 
-  Interests: ["AWS", "CyberSecurity", "GNU Linux", "FOSS"]
-  Languages: ["C", "Golang", "Python", "Shell", "PoSh", "LaTeX", "Lua"]
+  Interests: ["Cloud", "CyberSecurity", "GNU Linux", "FOSS"]
+  Languages: ["C", "Golang", "Python", "PoSh", "LaTeX", "Shell", "Lua"]
   OS: ArchLinux
   WM: DWM
   ```
