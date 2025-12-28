@@ -17,10 +17,7 @@ WM: DWM
 </div>
 <br />
 <p align="center">
- 
-p align="center">
+  p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=Installing+East+Frisian+Tea...;sudo+holdmyteacup;Fixing+bugs+I+caused+myself...;Arch+btw+%E2%9A%A1;Project+Maxwell+coming+soon%E2%84%A2" alt="Typing SVG" />
-
-<p align="center">
-  
+</p>
  <samp>
