@@ -12,6 +12,6 @@ WM: DWM
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=I+plan+and+lead+software+projects;Coach+engineering+teams;And+fix+all+kinds+of+annoying+bugs...;Mail+for+info+>+lgeurts@flouze-eurl.fr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=00B4FF&center=true&vCenter=true&width=460&lines=I+plan+and+lead+software+projects;Coach+engineering+teams;And+squash+all+kinds+of+annoying+bugs...;Mail+for+info+>+lgeurts@flouze-eurl.fr" alt="Typing SVG" />
 </p>
  <samp>
