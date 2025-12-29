@@ -5,7 +5,7 @@
 —————————————————————
 Interests: ["GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
-Learning: [ "LPI LPIC-1", "Golang"] 
+Learning: [ "LPI LPIC-1", "Go"] 
 OS: ArchLinux
 WM: DWM
 ```
