@@ -7,7 +7,7 @@ Interests: ["Cloud", "GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPIC-1", "Go"] 
 OS: ArchLinux
-WM: Suckless DWM
+WM: DWM
 ```
 </div>
 
