@@ -6,8 +6,8 @@
 Interests: ["GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPI LPIC-1", "Go"] 
-OS: ArchLinux
-WM: DWM
+OS: ArchLinux (perf kernel)
+WM: Suckless DWM
 ```
 </div>
 
