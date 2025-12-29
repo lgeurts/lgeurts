@@ -3,10 +3,10 @@
 ```css
 [GitHub Profile]-(~)
 —————————————————————
-Interests: ["Cloud", "GitOps", "GNU-Linux", "FOSS"]
+Interests: ["GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPIC-1 & 2", "Golang"] 
-OS: ArchLinux (LTS kernel)
+OS: ArchLinux (LTS)
 WM: DWM
 ```
 </div>
