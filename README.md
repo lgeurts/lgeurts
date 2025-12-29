@@ -6,7 +6,7 @@
 Interests: ["Cloud", "GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPIC-1 & 2", "Golang"] 
-OS: ArchLinux
+OS: ArchLinux (LTS kernel)
 WM: DWM
 ```
 </div>
