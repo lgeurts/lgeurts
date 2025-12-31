@@ -3,7 +3,7 @@
 ```css
 [GitHub-Profile]-(~)
 —————————————————————
-Interests: ["Cloud", "Security", "GitOps", "GNU-Linux", "FOSS"]
+Interests: ["Cloud", "GitOps", "GNU-Linux", "FOSS"]
 Languages: ["C", "Python", "PoSh", "Shell", "LaTeX", "Lua"]
 Learning: [ "LPIC", "Golang"] 
 OS: ArchLinux
